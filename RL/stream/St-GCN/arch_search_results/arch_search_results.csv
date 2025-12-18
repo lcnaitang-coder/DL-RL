@@ -1,0 +1,6 @@
+Name,Branches,Max Dilation,Receptive Field (Frames),Time (s),Val Accuracy,Train Accuracy
+B (v13.5 Current),4,8,129,13.7,97.5,100.0
+A (v13.4 Baseline),3,4,65,9.0,97.0,100.0
+D (Deep 5),5,16,257,8.5,97.0,100.0
+C (Balanced 4),4,6,97,10.2,96.5,100.0
+E (Wide & Shallow),4,1,17,12.0,95.5,100.0
